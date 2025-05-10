@@ -1,6 +1,7 @@
 # Multimodal Deep Learning-based Project: Hateful Meme Detection
 
-**by Ruitian Wu, Yijia Xue**
+**Varshita**
+
 
 *names by the alphabetical order of the last names*
 
